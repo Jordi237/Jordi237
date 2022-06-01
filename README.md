@@ -21,6 +21,9 @@ Languages and Tools:
 <img align="left" alt="imag" width="50" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 
 
+
+
+
 <!---
 Jordi237/Jordi237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
