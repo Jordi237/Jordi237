@@ -1,9 +1,9 @@
-👋 Hi, I am Jordan, living in France 🌴, Student in Data Science. I really enjoy learning Python and R languages.
+👋 Hi, I am Jordan, living in France 🌴, Student in Data Analyst & Engineer / Business Analyst. I really enjoy learning SQL, Spark, Python and R languages.
 
 
 - 👀 I’m interested in new technology
 - 🌱 I’m currently learning: Machine learnig 
-- 📫 How to reach me: email(tchegnezebou99@gmail.com)
+- 📫 How to reach me: email(jordan.tchegnezebou@gmail.com)
 
 
 
